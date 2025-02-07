@@ -1,4 +1,4 @@
-# Sprunki Agent - Play Incredibox Sprunki Mod Game Online Free
+# Sprunki Agent
 
 ![Sprunki Agent](https://raw.githubusercontent.com/sprunkiscrunkly/sprunki-agent/refs/heads/main/sprunki-agent.png "Sprunki Agent")
 
